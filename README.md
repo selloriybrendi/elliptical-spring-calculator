@@ -8,3 +8,5 @@ beside closed forms based on Ramanujan's second ellipse-perimeter approximation.
 
 Cite: Kenjaev, O. U. (2026). *Arc length of an elliptical helix via Ramanujan's second perimeter
 approximation, with explicit pitch thresholds* (Version 2). Zenodo. https://doi.org/10.5281/zenodo.22984129
+
+Author: Otakhon U. Kenjaev · ORCID https://orcid.org/0009-0009-3566-9285 · Telegram https://t.me/sheki
