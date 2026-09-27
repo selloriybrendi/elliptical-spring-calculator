@@ -10,3 +10,5 @@ Cite: Kenjaev, O. U. (2026). *Arc length of an elliptical helix via Ramanujan's 
 approximation, with explicit pitch thresholds* (Version 2). Zenodo. https://doi.org/10.5281/zenodo.22984129
 
 Author: Otakhon U. Kenjaev · ORCID https://orcid.org/0009-0009-3566-9285 · Telegram https://t.me/sheki · channel https://t.me/nizomliy
+
+Code drafted with AI assistance (Claude); mathematics, verification and responsibility for all results are the author's.
