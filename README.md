@@ -12,3 +12,6 @@ approximation, with explicit pitch thresholds* (Version 2). Zenodo. https://doi.
 Author: Otakhon U. Kenjaev · ORCID https://orcid.org/0009-0009-3566-9285 · Telegram https://t.me/sheki · channel https://t.me/nizomliy
 
 Code drafted with AI assistance (Claude); mathematics, verification and responsibility for all results are the author's.
+
+---
+**Author:** Otakhon U. Kenjaev (also written *Otaxon Kenjayev* / *Отахон Кенжаев*) · [otakhonkenjaev.com](https://otakhonkenjaev.com/) · ORCID [0009-0009-3566-9285](https://orcid.org/0009-0009-3566-9285)
